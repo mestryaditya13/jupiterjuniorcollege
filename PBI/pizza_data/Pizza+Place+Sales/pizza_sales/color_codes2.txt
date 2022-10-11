@@ -1,0 +1,4 @@
+bg-color: #1c6758
+2nd-color: #d6cda4
+visual-color: #3d8361
+icon-color: #8eb3ac

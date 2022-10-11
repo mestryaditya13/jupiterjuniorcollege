@@ -1,0 +1,7 @@
+Plato Pizza Color codes:
+
+bg-color: #e2ebcc
+kpi-color: #764805
+green: #575f1f
+pink: #ac6474
+red: #780e13
